@@ -1,7 +1,7 @@
 # KitsunePack
 Custom items texturepack for the KitsuneCraft server
 
-![unknown](https://user-images.githubusercontent.com/90257746/163864842-55be349b-881a-4c9b-9f2e-8a5d1ae3b58e.png)
+![unknown_ccexpress](https://user-images.githubusercontent.com/90257746/164200367-eaefc70d-32a3-491f-b4af-671700385800.png)
 
 This is a custom texturepack to be used with the datapack in order to give certain items custom textures serverwide.
 
